@@ -14,9 +14,9 @@ Marketing decks routinely ship with outdated stats, hallucinated figures, and da
 
 | Stage | What happens | Powered by |
 |------|--------------|------------|
-| **1. Extract** | Pulls verifiable claims (stats, dates, financial/technical figures) from any uploaded PDF | Google Gemini 1.5 Flash |
+| **1. Extract** | Pulls verifiable claims (stats, dates, financial/technical figures) from any uploaded PDF | Google Gemini 2.5 Flash |
 | **2. Verify** | Searches the live web for each claim and pulls top-ranked evidence | Tavily Search API |
-| **3. Report** | Assigns one of four verdicts — *Verified, Inaccurate, False, Unverifiable* — with a correction and a source citation | Google Gemini 1.5 Flash |
+| **3. Report** | Assigns one of four verdicts — *Verified, Inaccurate, False, Unverifiable* — with a correction and a source citation | Google Gemini 2.5 Flash |
 
 Each claim is rendered as a color-coded card with the corrected fact and source URL, plus a document-level **Trust Score**.
 
@@ -125,4 +125,4 @@ The assessment notes that submissions will be tested against a document **contai
 
 Built as a submission for the CogCulture PM Trainee assessment.
 
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-handle)
+[GitHub](https://github.com/chunchunmaaruu) · [LinkedIn](https://www.linkedin.com/in/manas-bhardwaj-356606290/)
