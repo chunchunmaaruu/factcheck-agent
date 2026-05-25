@@ -115,7 +115,7 @@ The assessment notes that submissions will be tested against a document **contai
 
 - **Frontend / runtime** — Streamlit
 - **PDF parsing** — PyMuPDF (`fitz`)
-- **LLM** — Google Gemini 1.5 Flash via `google-generativeai`
+- **LLM** — Google Gemini 2.5 Flash via `google-generativeai`
 - **Web search** — Tavily Search API
 - **Hosting** — Streamlit Community Cloud
 
