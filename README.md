@@ -4,7 +4,7 @@
 
 Built for the CogCulture Product Management Trainee assessment (Part 2).
 
-**🌐 Live App:** [your-streamlit-url-here.streamlit.app](https://your-streamlit-url-here.streamlit.app)
+**🌐 Live App:** [your-streamlit-url-here.streamlit.app](https://factcheck-agent-opompwtnirvwjaemstrv3a.streamlit.app/)
 
 ---
 
